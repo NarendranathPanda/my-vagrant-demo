@@ -14,6 +14,8 @@ VMware Fusion, Hyper-V and QEMU ,docker
 
 Provisioner: https://www.ansible.com/
  Ansible, Puppet, SaltStack and Chef.
+ 
+Vagrant file : https://www.vagrantup.com/docs/vagrantfile 
 
 Virtualbox Networking: https://www.virtualbox.org/manual/ch06.html
 
