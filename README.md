@@ -22,3 +22,22 @@ Virtualbox Networking: https://www.virtualbox.org/manual/ch06.html
 - Forwarded ports create tunnels from virtual machines to outside world
 
 
+# The Usual Home Network
+---------------------------
+![Typical Home Network ](https://blog.jeffli.me/images/home-networking.png)
+
+# The Public Networking
+---------------------------
+![Public Network](https://blog.jeffli.me/images/vagrant-public-networking.png)
+
+# The Private Networking
+---------------------------
+![The Private Network](https://blog.jeffli.me/images/vagrant-private-networking.png)
+
+# The IP Forwarding
+![IP-Forwarding](https://blog.jeffli.me/images/vagrant-fowarded-ports.png)
+
+
+
+
+
