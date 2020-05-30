@@ -30,14 +30,21 @@ Virtualbox Networking: https://www.virtualbox.org/manual/ch06.html
 
 # The Public Networking
 ---------------------------
+https://www.vagrantup.com/docs/networking/public_network
+
 ![Public Network](https://blog.jeffli.me/images/vagrant-public-networking.png)
 
 # The Private Networking
 ---------------------------
+https://www.vagrantup.com/docs/networking/private_network
+
 ![The Private Network](https://blog.jeffli.me/images/vagrant-private-networking.png)
 
-# The IP Forwarding
-![IP-Forwarding](https://blog.jeffli.me/images/vagrant-fowarded-ports.png)
+# The PORT Forwarding : 
+----------------------------
+https://www.vagrantup.com/docs/networking/forwarded_ports
+
+![PORT-Forwarding](https://blog.jeffli.me/images/vagrant-fowarded-ports.png)
 
 
 
