@@ -22,8 +22,8 @@ Vagrant file : https://www.vagrantup.com/docs/vagrantfile
 - Download vagrant : https://www.vagrantup.com/downloads
 - Enable Virtualisation: 
   easy check in windows10 : Go to Task-manager>cpu check the bottom part section of graph 
-  [Task-Manager](/img/cpu.PNG)
-  [cpu](/img/virtualization.PNG)
+  - ![Task-Manager](cpu.PNG)
+  - ![cpu](virtualization.PNG)
   
   
 
