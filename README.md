@@ -17,6 +17,16 @@ Provisioner: https://www.ansible.com/
  
 Vagrant file : https://www.vagrantup.com/docs/vagrantfile 
 
+# Installation 
+- Download Oracle Virtualbox : https://www.virtualbox.org/wiki/Downloads
+- Download vagrant : https://www.vagrantup.com/downloads
+- Enable Virtualisation: 
+  easy check in windows10 : Go to Task-manager>cpu check the bottom part section of graph 
+  [Task-Manager](/img/cpu.PNG)
+  [cpu](/img/virtualization.PNG)
+  
+  
+
 Virtualbox Networking: https://www.virtualbox.org/manual/ch06.html
 
 - Public networking attaches virtual machines to the same subnet with the Vagrant host
