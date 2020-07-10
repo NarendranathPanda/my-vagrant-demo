@@ -5,6 +5,17 @@
   easy check in windows10 : Go to Task-manager>cpu check the bottom part section of graph 
   - ![Task-Manager](cpu.PNG)
   - ![cpu](virtualization.PNG)
+  ```
+  git checkout https://github.com/NarendranathPanda/my-vagrant-demo.git
+  cd my my-vagrant-demo/node
+  vagrant up 
+  vagrant status
+  vagrant ssh 
+  
+  //Should be in the new machine
+  
+  ```
+  
   
 # Learning Vagrant setup 
 https://blog.jeffli.me/blog/2016/12/06/a-beginners-guide-for-vagrant/
